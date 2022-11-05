@@ -1,0 +1,28 @@
+.txt{
+    background-color: rgb(31, 152, 233);
+}
+.btn-parent{
+    align-items: center;
+}
+.heading,.nameval {
+    display: flex;
+}
+.div-wid{
+    width: 30%;
+}
+.section{
+    display: flex;
+    padding-top: 10px;
+}
+.sec-1{
+    background-color: aqua;
+    width: 15%;
+}
+
+.sec-2{
+    background-color: white;
+    width: 85%;
+}
+.add-main{
+    display: flex;
+}
